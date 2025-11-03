@@ -43,4 +43,4 @@
 
 Заключение: Образ – шаблон, реестр – библиотека.
 
-
+vless://8a4bfeea-e1f6-4923-bcb2-374db3873c55@194.164.48.102:443?security=reality&sni=azure.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none#avovpn.com-3218906-3191716
