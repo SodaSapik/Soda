@@ -11,7 +11,7 @@
 ### <p align="center"><strong>Топология</strong></p>
 
 <br/>
-
+https://github.com/SodaSapik/Soda/blob/main/Module2.md -- Модуль 2
 ------------------------------------------ПРЕДНАСТРОЙКА НА ВСЕХ МАШИНАХ--------------------------------------------------
 <details>
 <summary><strong>Преднастройка</strong></summary>
